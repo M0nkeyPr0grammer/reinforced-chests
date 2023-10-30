@@ -1,4 +1,4 @@
-![Reinforced Chests adjusted by M0nkeyPr0grammer](./images/header.png)
+![Reinforced Chests](./images/header.png)
 
 [![Mod Loader: Fabric](https://img.shields.io/static/v1?label=modloader&message=fabric&color=brightgreen)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 ![Mod Environment](https://img.shields.io/static/v1?label=environment&message=client%2Fserver&color=yellow)
@@ -7,7 +7,7 @@
 [![Modrinth](https://img.shields.io/modrinth/dt/FWtAXlpg?color=%2300AF5C&logo=modrinth)](https://modrinth.com/mod/reinforced-chests)
 [![MIT License](https://img.shields.io/static/v1?label=licence&message=MIT&color=blue)](./LICENSE)
 
-# Reinforced Chests
+# Reinforced Chests adjusted by M0nkeyPr0grammer
 
 The Reinforced Chests mod adds reinforced chests.
 
