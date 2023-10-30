@@ -1,4 +1,4 @@
-![Reinforced Chests](./images/header.png)
+![Reinforced Chests adjusted by M0nkeyPr0grammer](./images/header.png)
 
 [![Mod Loader: Fabric](https://img.shields.io/static/v1?label=modloader&message=fabric&color=brightgreen)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 ![Mod Environment](https://img.shields.io/static/v1?label=environment&message=client%2Fserver&color=yellow)
