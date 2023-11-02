@@ -1,10 +1,5 @@
 ![Reinforced Chests](./images/header.png)
 
-[![Mod Loader: Fabric](https://img.shields.io/static/v1?label=modloader&message=fabric&color=brightgreen)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-![Mod Environment](https://img.shields.io/static/v1?label=environment&message=client%2Fserver&color=yellow)
-![Version](https://cf.way2muchnoise.eu/versions/529873.svg)
-[![CurseForge](https://cf.way2muchnoise.eu/529873.svg)](https://www.curseforge.com/minecraft/mc-mods/reinforced-chests)
-[![Modrinth](https://img.shields.io/modrinth/dt/FWtAXlpg?color=%2300AF5C&logo=modrinth)](https://modrinth.com/mod/reinforced-chests)
 [![MIT License](https://img.shields.io/static/v1?label=licence&message=MIT&color=blue)](./LICENSE)
 
 # Reinforced Chests adjusted by M0nkeyPr0grammer
@@ -15,8 +10,8 @@ The Reinforced Chests mod adds reinforced chests.
 
 ## Reinforced Storage Mod Series
 
-- [Reinforced Shulker Boxes](https://github.com/Aton-Kish/reinforced-shulker-boxes)
-- [Reinforced Barrels](https://github.com/Aton-Kish/reinforced-barrels)
+- [Reinforced Shulker Boxes](https://github.com/M0nkeyPr0grammer/reinforced-shulker-boxes)
+- [Reinforced Barrels](https://github.com/M0nkeyPr0grammer/reinforced-barrels)
 
 ## Recipe
 
