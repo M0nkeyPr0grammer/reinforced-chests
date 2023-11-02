@@ -25,10 +25,6 @@ The Reinforced Chests mod adds reinforced chests.
 
 ## Configure
 
-[The Reinforced Core lib](https://github.com/Aton-Kish/reinforced-core) has been integrated with [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) since version 3.0.0.
-
-![Mod Menu](./images/modmenu/modmenu.png)
-
 ### Screen Type
 
 _Available in Reinforced Chests mod version 2.1.0+._
