@@ -27,26 +27,6 @@ The Reinforced Chests mod adds reinforced chests.
 
 ### Screen Type
 
-_Available in Reinforced Chests mod version 2.1.0+._
-
-Screen type is `SINGLE` or `SCROLL`. (default: `SINGLE`)
-
-| `SINGLE` screen                               | `SCROLL` screen                                |
-| --------------------------------------------- | ---------------------------------------------- |
-| ![Single Screen](./images/modmenu/single.png) | ![Scroll Screen](./images/modmenu/scroll6.png) |
-
-### Scroll Screen
-
-#### Rows
-
-_Available in Reinforced Chests mod version 2.1.0+._
-
-Rows is an integer in the range from `6` to `9`. (default: `6`)
-
-| Rows: `6`                                              | Rows: `9`                                              |
-| ------------------------------------------------------ | ------------------------------------------------------ |
-| ![Scroll Screen: 6 rows](./images/modmenu/scroll6.png) | ![Scroll Screen: 9 rows](./images/modmenu/scroll9.png) |
-
 ## License
 
 The Reinforced Chests mod is licensed under the MIT License, see [LICENSE](./LICENSE).
