@@ -1,4 +1,4 @@
-![Reinforced Chests](./images/header.png)
+![Reinforced Chests](./images/top.png)
 
 [![MIT License](https://img.shields.io/static/v1?label=licence&message=MIT&color=blue)](./LICENSE)
 
