@@ -23,10 +23,6 @@ The Reinforced Chests mod adds reinforced chests.
 | Diamond Chest   | Shaped Crafting | Gold Chest + Diamond            | <img alt="Diamond Chest Recipe" src="./images/recipes/diamond_chest.png" width="256" />              | A diamond chest has 108 slots of inventory space, and a large diamond chest has twice that amount, at 216 slots.                                                |
 | Netherite Chest | Smithing        | Diamond Chest + Netherite Ingot | <img alt="Netherite Chest Recipe" src="./images/recipes/netherite_chest_smithing.png" width="256" /> | A netherite chest has 144 slots of inventory space, and a large netherite chest has twice that amount, at 288 slots. This is resistant to blast, fire and lava. |
 
-## Configure
-
-### Screen Type
-
 ## License
 
 The Reinforced Chests mod is licensed under the MIT License, see [LICENSE](./LICENSE).
