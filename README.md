@@ -10,8 +10,8 @@ The Reinforced Chests mod adds reinforced chests.
 
 ## Reinforced Storage Mod Series
 
-- [Reinforced Shulker Boxes](https://github.com/M0nkeyPr0grammer/reinforced-shulker-boxes)
-- [Reinforced Barrels](https://github.com/M0nkeyPr0grammer/reinforced-barrels)
+- [Upgraded Shulker Boxes](https://github.com/M0nkeyPr0grammer/upgraded-shulker-boxes)
+- [Upgraded Barrels](https://github.com/M0nkeyPr0grammer/upgraded-barrels)
 
 ## Recipe
 
